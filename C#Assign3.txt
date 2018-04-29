@@ -1,0 +1,27 @@
+Assignment #3 (UWP):
+
+Research on Github (individual)
+
+Video-recording of how to use it's main functionalities
+
+---
+
+Universal Windows Platform (individual) 
+
+InClassImplementation of the Dice Game Version 2:
+
+In version 2, which is the mater of this assignment, you are supposed to do the following:
+
+1) Add a 4th die and 5th die to the game
+
+2) This 4th / 5th die should appear on the screen (be visible) ONLY if the following criteria is met:
+
+- considering the first / original 3 dice:
+
+2.1) if 2 matches, a new button is displayed which allows to roll die#4. If there is a match among the first 2 and the 4th die than it's a 3-dice-match which forces a 5th die to be displayed and a 3rd button (roll die#5). If die#5 matches the original 2 dice + the 4th die then it's a 4-dice-match.
+
+2.2) same as item 2.1 but "if the 3 original dice match". then a 4th die would make it a 4-dice-match and a 5th die would appear. If die#5 matches the first 4 dice then it's top prize of 1,000 points.
+
+2.3) a 4-dice-match would be worth 400 points
+
+2.4) the original game remains the same.
